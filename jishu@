@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <title>blog</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<h1>Welcome to website</h1>
+<h2 id='date'> </h2>
+<div><img src="https://images.app.goo.gl/D2ST22eCha4peomC6"></div>
+
+
+
+
+
+
+
+
+
+
+</html>
